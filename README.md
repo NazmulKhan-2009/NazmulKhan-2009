@@ -1,7 +1,7 @@
 
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQF5SjmIlXZaXw/profile-displaybackgroundimage-shrink_200_800/0/1631564885544?e=1652918400&v=beta&t=txS2Y6o2Gz_XIEhUtuyG1padkWBLXY72yPakarNxV68)
 
-### Hi there 👋, My name is A B M Nazmul Hossain Khan
+ ### My name is A B M Nazmul Hossain Khan
 #### I am Web Application Developer
 
 
